@@ -1,0 +1,21 @@
+{
+    "rewrites": [
+      {
+        "source": "/Sir-Abdul-Basit-projects\\.(html|css|js)$",
+        "destination": "/index.html"
+      },
+      {
+        "source": "/Sir-Abdul-Basit-projects\\.html$",
+        "destination": "/html-destination"
+      },
+      {
+        "source": "/Sir-Abdul-Basit-projects\\.css$",
+        "destination": "/css-destination"
+      },
+      {
+        "source": "/Sir-Abdul-Basit-projects\\.js$",
+        "destination": "/js-destination"
+      }
+    ]
+  }
+  
